@@ -1,0 +1,1 @@
+# This repository contains work that I've done to practice using OpenCV (Open Source Computer Vision).
